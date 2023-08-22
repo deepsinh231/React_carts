@@ -1,0 +1,22 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.quickSuggestions": {
+            "comments": false, // <- no 24x7 IntelliSense in comments
+            "strings": true, // but in strings and the other parts of source files
+            "other": true
+        },
+        "settings": {
+            "css.remoteStyleSheets": [
+                "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
+            ]
+        },
+        
+    },
+    "html-css-class-completion.enableEmmetSupport": true,
+    "html-css-class-completion.includeGlobPattern": "**/*.{css,html}",
+    "html-css-class-completion.JavaScriptLanguages": [
+        "javascript",
+        "javascriptreact",
+        "typescriptreact"
+    ]
+}

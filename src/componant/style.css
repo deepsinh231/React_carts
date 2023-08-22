@@ -1,0 +1,23 @@
+* {
+    scroll-behavior: smooth;
+}
+
+.card_style:hover {
+    box-shadow: 10px 10px 10px 5px rgba(0, 0, 0, 0.336);
+    cursor: pointer;
+    transition: box-shadow 0.5s;
+
+}
+
+.border-radius {
+    border-radius: 20px;
+}
+
+.box-shadow {
+    box-shadow: 10px 10px 10px 5px rgba(0, 0, 0, 0.336);
+    transition: box-shadow 0.5s;
+}
+
+.row {
+    display: flex;
+}
